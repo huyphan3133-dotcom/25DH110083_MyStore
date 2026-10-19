@@ -1,0 +1,236 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\LTW\\25DH110083_MyStore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E6BFDBA7-329E-4D91-93CE-D7AE179ABABC}|25DH110083_MyStore.csproj|E:\\LTW\\25DH110083_MyStore\\areas\\admin\\views\\categories\\pvcreateedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E6BFDBA7-329E-4D91-93CE-D7AE179ABABC}|25DH110083_MyStore.csproj|solutionrelative:areas\\admin\\views\\categories\\pvcreateedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6BFDBA7-329E-4D91-93CE-D7AE179ABABC}|25DH110083_MyStore.csproj|E:\\LTW\\25DH110083_MyStore\\areas\\admin\\views\\categories\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E6BFDBA7-329E-4D91-93CE-D7AE179ABABC}|25DH110083_MyStore.csproj|solutionrelative:areas\\admin\\views\\categories\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6BFDBA7-329E-4D91-93CE-D7AE179ABABC}|25DH110083_MyStore.csproj|E:\\LTW\\25DH110083_MyStore\\areas\\admin\\views\\categories\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E6BFDBA7-329E-4D91-93CE-D7AE179ABABC}|25DH110083_MyStore.csproj|solutionrelative:areas\\admin\\views\\categories\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6BFDBA7-329E-4D91-93CE-D7AE179ABABC}|25DH110083_MyStore.csproj|E:\\LTW\\25DH110083_MyStore\\areas\\admin\\views\\categories\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E6BFDBA7-329E-4D91-93CE-D7AE179ABABC}|25DH110083_MyStore.csproj|solutionrelative:areas\\admin\\views\\categories\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6BFDBA7-329E-4D91-93CE-D7AE179ABABC}|25DH110083_MyStore.csproj|e:\\ltw\\25dh110083_mystore\\areas\\admin\\views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E6BFDBA7-329E-4D91-93CE-D7AE179ABABC}|25DH110083_MyStore.csproj|solutionrelative:areas\\admin\\views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6BFDBA7-329E-4D91-93CE-D7AE179ABABC}|25DH110083_MyStore.csproj|E:\\LTW\\25DH110083_MyStore\\areas\\admin\\views\\categories\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E6BFDBA7-329E-4D91-93CE-D7AE179ABABC}|25DH110083_MyStore.csproj|solutionrelative:areas\\admin\\views\\categories\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6BFDBA7-329E-4D91-93CE-D7AE179ABABC}|25DH110083_MyStore.csproj|E:\\LTW\\25DH110083_MyStore\\areas\\admin\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6BFDBA7-329E-4D91-93CE-D7AE179ABABC}|25DH110083_MyStore.csproj|solutionrelative:areas\\admin\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6BFDBA7-329E-4D91-93CE-D7AE179ABABC}|25DH110083_MyStore.csproj|E:\\LTW\\25DH110083_MyStore\\areas\\admin\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E6BFDBA7-329E-4D91-93CE-D7AE179ABABC}|25DH110083_MyStore.csproj|solutionrelative:areas\\admin\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6BFDBA7-329E-4D91-93CE-D7AE179ABABC}|25DH110083_MyStore.csproj|E:\\LTW\\25DH110083_MyStore\\areas\\admin\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E6BFDBA7-329E-4D91-93CE-D7AE179ABABC}|25DH110083_MyStore.csproj|solutionrelative:areas\\admin\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6BFDBA7-329E-4D91-93CE-D7AE179ABABC}|25DH110083_MyStore.csproj|E:\\LTW\\25DH110083_MyStore\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E6BFDBA7-329E-4D91-93CE-D7AE179ABABC}|25DH110083_MyStore.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6BFDBA7-329E-4D91-93CE-D7AE179ABABC}|25DH110083_MyStore.csproj|E:\\LTW\\25DH110083_MyStore\\areas\\admin\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6BFDBA7-329E-4D91-93CE-D7AE179ABABC}|25DH110083_MyStore.csproj|solutionrelative:areas\\admin\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6BFDBA7-329E-4D91-93CE-D7AE179ABABC}|25DH110083_MyStore.csproj|E:\\LTW\\25DH110083_MyStore\\models\\mystoremodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{E6BFDBA7-329E-4D91-93CE-D7AE179ABABC}|25DH110083_MyStore.csproj|solutionrelative:models\\mystoremodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6BFDBA7-329E-4D91-93CE-D7AE179ABABC}|25DH110083_MyStore.csproj|E:\\LTW\\25DH110083_MyStore\\areas\\admin\\adminarearegistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6BFDBA7-329E-4D91-93CE-D7AE179ABABC}|25DH110083_MyStore.csproj|solutionrelative:areas\\admin\\adminarearegistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "E:\\LTW\\25DH110083_MyStore\\Areas\\Admin\\Views\\Categories\\Details.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Categories\\Details.cshtml",
+              "ToolTip": "E:\\LTW\\25DH110083_MyStore\\Areas\\Admin\\Views\\Categories\\Details.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Categories\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-19T09:12:46.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PVCreateEdit.cshtml",
+              "DocumentMoniker": "E:\\LTW\\25DH110083_MyStore\\Areas\\Admin\\Views\\Categories\\PVCreateEdit.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Categories\\PVCreateEdit.cshtml",
+              "ToolTip": "E:\\LTW\\25DH110083_MyStore\\Areas\\Admin\\Views\\Categories\\PVCreateEdit.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Categories\\PVCreateEdit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-19T09:09:11.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "E:\\LTW\\25DH110083_MyStore\\Areas\\Admin\\Views\\Categories\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Categories\\Edit.cshtml",
+              "ToolTip": "E:\\LTW\\25DH110083_MyStore\\Areas\\Admin\\Views\\Categories\\Edit.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Categories\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-19T09:00:59.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "E:\\LTW\\25DH110083_MyStore\\Areas\\Admin\\Views\\Categories\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Categories\\Delete.cshtml",
+              "ToolTip": "E:\\LTW\\25DH110083_MyStore\\Areas\\Admin\\Views\\Categories\\Delete.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Categories\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-19T09:01:03.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\LTW\\25DH110083_MyStore\\Areas\\Admin\\Views\\Categories\\Index.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Categories\\Index.cshtml",
+              "ToolTip": "E:\\LTW\\25DH110083_MyStore\\Areas\\Admin\\Views\\Categories\\Index.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Categories\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-19T09:01:00.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\LTW\\25DH110083_MyStore\\Areas\\Admin\\Views\\Categories\\Create.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Categories\\Create.cshtml",
+              "ToolTip": "E:\\LTW\\25DH110083_MyStore\\Areas\\Admin\\Views\\Categories\\Create.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Categories\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-19T08:59:13.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "E:\\LTW\\25DH110083_MyStore\\Areas\\Admin\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\CategoriesController.cs",
+              "ToolTip": "E:\\LTW\\25DH110083_MyStore\\Areas\\Admin\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "Areas\\Admin\\Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAiwGkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T08:50:43.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\LTW\\25DH110083_MyStore\\Areas\\Admin\\Views\\Admin\\Index.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Admin\\Index.cshtml",
+              "ToolTip": "E:\\LTW\\25DH110083_MyStore\\Areas\\Admin\\Views\\Admin\\Index.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Admin\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-19T08:46:14.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\LTW\\25DH110083_MyStore\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\LTW\\25DH110083_MyStore\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAB1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-19T08:31:14.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_AdminLayout.cshtml",
+              "DocumentMoniker": "E:\\LTW\\25DH110083_MyStore\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "ToolTip": "E:\\LTW\\25DH110083_MyStore\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-19T08:31:07.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "E:\\LTW\\25DH110083_MyStore\\Areas\\Admin\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\AdminController.cs",
+              "ToolTip": "E:\\LTW\\25DH110083_MyStore\\Areas\\Admin\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "Areas\\Admin\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T08:26:06.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AdminAreaRegistration.cs",
+              "DocumentMoniker": "E:\\LTW\\25DH110083_MyStore\\Areas\\Admin\\AdminAreaRegistration.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\AdminAreaRegistration.cs",
+              "ToolTip": "E:\\LTW\\25DH110083_MyStore\\Areas\\Admin\\AdminAreaRegistration.cs",
+              "RelativeToolTip": "Areas\\Admin\\AdminAreaRegistration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T08:24:48.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MyStoreModel.edmx [Diagram1]",
+              "DocumentMoniker": "E:\\LTW\\25DH110083_MyStore\\Models\\MyStoreModel.edmx",
+              "RelativeDocumentMoniker": "Models\\MyStoreModel.edmx",
+              "ToolTip": "E:\\LTW\\25DH110083_MyStore\\Models\\MyStoreModel.edmx [Diagram1]",
+              "RelativeToolTip": "Models\\MyStoreModel.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2026-10-19T08:15:30.613Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

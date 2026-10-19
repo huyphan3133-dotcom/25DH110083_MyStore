@@ -1,0 +1,2 @@
+E:\LTW\25DH110083_MyStore\obj\Debug\_25DH110083_MyStore.csproj.AssemblyReference.cache
+E:\LTW\25DH110083_MyStore\obj\Debug\_25DH110083_MyStore.csproj.CoreCompileInputs.cache

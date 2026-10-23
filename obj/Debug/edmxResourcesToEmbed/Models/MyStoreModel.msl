@@ -50,7 +50,7 @@
           <ScalarProperty Name="ProductID" ColumnName="ProductID" />
           <ScalarProperty Name="CategoryID" ColumnName="CategoryID" />
           <ScalarProperty Name="ProductName" ColumnName="ProductName" />
-          <ScalarProperty Name="ProductDescription" ColumnName="ProductDecription" />
+          <ScalarProperty Name="ProductDecription" ColumnName="ProductDecription" />
           <ScalarProperty Name="ProductPrice" ColumnName="ProductPrice" />
           <ScalarProperty Name="ProductImage" ColumnName="ProductImage" />
         </MappingFragment>

@@ -8,6 +8,9 @@ using System.Linq;
 using System.Net;
 using System.Web;
 using System.Web.Mvc;
+using PagedList;
+using _25DH110083_MyStore.Models.ViewModel;
+
 
 namespace _25DH110083_MyStore.Areas.Admin.Controllers
 {
@@ -15,6 +18,7 @@ namespace _25DH110083_MyStore.Areas.Admin.Controllers
     {
         private MyStoreEntities db = new MyStoreEntities();
 
+        
         // GET: Admin/Products
         public ActionResult Index(string searchTerm, decimal? minPrice,
             decimal? maxPrice, string sortOrder, int? page)
@@ -26,7 +30,7 @@ namespace _25DH110083_MyStore.Areas.Admin.Controllers
             {
                 model.SearchTerm = searchTerm;
                 products = products.Where(p => p.ProductName.Contains(searchTerm) ||
-                                        p.ProductDescription.Contains(searchTerm) ||
+                                        p.ProductDecription.Contains(searchTerm) ||
                                         p.Category.CategoryName.Contains(searchTerm));
             }
             // Tìm kiếm sản phẩm dựa trên giá tối thiểu

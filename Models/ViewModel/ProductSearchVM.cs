@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 
-namespace _25DH110387_LTW.Models.ViewModel
+namespace _25DH110083_MyStore.Models.ViewModel
 {
     public class ProductSearchVM
     {

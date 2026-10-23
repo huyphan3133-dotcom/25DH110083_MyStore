@@ -11,24 +11,39 @@ namespace _25DH110083_MyStore.Models
 {
     using System;
     using System.Collections.Generic;
-    
+    using System.ComponentModel.DataAnnotations;
+    using System.ComponentModel.DataAnnotations.Schema;
+    using System.Web;
+
     public partial class Product
     {
         [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2214:DoNotCallOverridableMethodsInConstructors")]
         public Product()
         {
             this.OrderDetails = new HashSet<OrderDetail>();
+            ProductImage = "~/Content/images/default_img.png";
         }
-    
+
         public int ProductID { get; set; }
         public int CategoryID { get; set; }
         public string ProductName { get; set; }
-        public string ProductDescription { get; set; }
+        public string ProductDecription { get; set; }
         public decimal ProductPrice { get; set; }
         public string ProductImage { get; set; }
-    
+
+        //reference properties
         public virtual Category Category { get; set; }
         [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2227:CollectionPropertiesShouldBeReadOnly")]
         public virtual ICollection<OrderDetail> OrderDetails { get; set; }
+
+        // Thêm tr??ng du lieu UploadImg kieu HttpPostedFile de upload file anh
+        // Dùng thuoc tính [NotMapped] de dánh dau dây là truong du lieu không luu vào DB
+
+        [RegularExpression(
+            @"^[a-zA-Z0-9\s_\\.\-:]+\.(png|jpg|gif)$",
+            ErrorMessage = "Ch? ch?p nh?n file ?nh PNG, JPG ho?c GIF."
+        )]
+        [NotMapped]
+        public HttpPostedFileBase UploadImg { get; set; }
     }
 }
